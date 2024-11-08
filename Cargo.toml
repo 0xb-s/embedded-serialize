@@ -1,0 +1,2 @@
+[workspace]
+members = ["embedded-serialize", "embedded-serialize-derive"]
