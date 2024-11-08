@@ -1,0 +1,12 @@
+[package]
+name = "embedded-serialize"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[features]
+default = ["esp32"]
+
+esp32 = []
+arduino32 = []
